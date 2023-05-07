@@ -5,7 +5,7 @@
 # My Home Assistant Config files: https://github.com/JuanMTech/Home_Assistant_files
 #
 #
-AMOLED RED:
+AMOLED GOLD:
   # Header:
   app-header-background-color: "#000000"
   app-header-text-color: "#BDC1C6"
